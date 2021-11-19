@@ -6,9 +6,16 @@
           "testeproject-a0cc9"
         ]
       }
+    },
+    "promoaquiapp": {
+      "hosting": {
+        "app": [
+          "promoaquiapp"
+        ]
+      }
     }
   },
   "projects": {
-    "default": "testeproject-a0cc9"
+    "default": "promoaquiapp"
   }
 }

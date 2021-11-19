@@ -176,8 +176,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "app:build:production",
-            "firebaseProject": "testeproject-a0cc9",
-            "firebaseHostingSite": "testeproject-a0cc9"
+            "firebaseProject": "promoaquiapp",
+            "firebaseHostingSite": "promoaquiapp"
           }
         }
       }
