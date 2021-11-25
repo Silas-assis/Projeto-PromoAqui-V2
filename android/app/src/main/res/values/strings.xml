@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">promoAqui</string>
+    <string name="title_activity_main">promoAqui</string>
+    <string name="package_name">com.promoaqui</string>
+    <string name="custom_url_scheme">com.promoaqui</string>
+</resources>
